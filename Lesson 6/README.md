@@ -115,7 +115,7 @@ The figure below shows discs drawn for N = 6 and A as follows:
   A[4] = 4
   A[5] = 0
 ```
-![Image1](images/16-1.png)
+![Image1](https://github.com/tanyinghui/Codility-Lesson/blob/master/images/l6-1.png)
 
 There are eleven (unordered) pairs of discs that intersect, namely:
 
