@@ -6,7 +6,7 @@ Codility Lesson Python solutions
 2. [x] [Arrays](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%202)
 3. [x] [Time Complexity](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%203)
 4. [x] [Counting Elements](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%204)
-5. [ ] Prefix Sums
+5. [x] [Prefix Sums](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%205)
 6. [ ] Sorting
 7. [ ] Stacks and Queues
 8. [ ] Leader
@@ -18,4 +18,4 @@ Codility Lesson Python solutions
 14. [ ] Binary search algorithm
 15. [ ] Caterpillar method
 16. [ ] Greedy algorithms
-17. Dynamic programming
+17. [ ] Dynamic programming
