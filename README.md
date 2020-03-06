@@ -7,7 +7,7 @@ Codility Lesson Python solutions
 3. [x] [Time Complexity](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%203)
 4. [x] [Counting Elements](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%204)
 5. [x] [Prefix Sums](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%205)
-6. [ ] Sorting
+6. [ ] [Sorting](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%206)
 7. [ ] Stacks and Queues
 8. [ ] Leader
 9. [ ] Maximum slice problem
