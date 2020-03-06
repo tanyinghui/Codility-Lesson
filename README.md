@@ -1,7 +1,7 @@
 # Codility-Lesson
 Codility Lesson Python solutions
 
-## Lesson 1 - Iterations
+1. [Lesson 1 - Iterations](Lesson 1/README.md)
 
 ## Lesson 2 - Arrays
 
