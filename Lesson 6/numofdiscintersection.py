@@ -1,3 +1,6 @@
+# Time complexity: O(N**2)
+# 50%
+
 def solution(A):
     discs = len(A)
     range_limits = []
