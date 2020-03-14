@@ -1,12 +1,20 @@
 def solution(A):
     # write your code in Python 3.6
-    data = {}
     l = len(A)
-    for e in A:
-        if e not in data.keys():
-            data[e] = 1
+    size = 0
+    for i in range(l):
+        if size == 0:
+            size += 1
+            value = A[i]
         else:
-            data[e] += 1
-            if data[e] > l//2:
-                return A.index(e)
-    return 0 if l == 1 else -1
+            if value != A[i]:
+                size -= 1
+            else:
+                size += 1
+    candidate = value if size > 0 else -1
+    leader = -1
+    count = 0
+    for j in range(l):
+        if A[j] == candidate:
+            count += 1
+    return A.index(candidate) if count > l//2 else leader
