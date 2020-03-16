@@ -10,7 +10,7 @@ Codility Lesson Python solutions
 6. [x] [Sorting](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%206)
 7. [ ] [Stacks and Queues](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%207)
 8. [ ] [Leader](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%208)
-9. [ ] Maximum slice problem
+9. [ ] [Maximum slice problem](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%208)
 10. [ ] Prime and composite numbers
 11. [ ] Sieve of Eratosthenes
 12. [ ] Euclidean algorithm
