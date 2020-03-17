@@ -12,7 +12,7 @@ Codility Lesson Python solutions
 8. [ ] [Leader](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%208)
 9. [ ] [Maximum slice problem](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%209)
 10. [ ] [Prime and composite numbers](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%2010)
-11. [ ] Sieve of Eratosthenes
+11. [ ] [Sieve of Eratosthenes](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%2011)
 12. [ ] Euclidean algorithm
 13. [ ] Fibonacci numbers
 14. [ ] Binary search algorithm
