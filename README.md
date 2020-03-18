@@ -9,7 +9,7 @@ Codility Lesson Python solutions
 5. [x] [Prefix Sums](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%205)
 6. [x] [Sorting](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%206)
 7. [ ] [Stacks and Queues](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%207)
-8. [ ] [Leader](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%208)
+8. [x] [Leader](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%208)
 9. [ ] [Maximum slice problem](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%209)
 10. [ ] [Prime and composite numbers](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%2010)
 11. [ ] Sieve of Eratosthenes
