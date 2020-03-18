@@ -16,6 +16,6 @@ Codility Lesson Python solutions
 12. [ ] [Euclidean algorithm](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%2012)
 13. [ ] Fibonacci numbers
 14. [ ] Binary search algorithm
-15. [ ] Caterpillar method
+15. [ ] [Caterpillar method](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%2015)
 16. [ ] Greedy algorithms
 17. [ ] Dynamic programming
