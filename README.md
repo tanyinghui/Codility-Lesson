@@ -1,5 +1,5 @@
 # Codility-Lesson
-Codility Lesson Python solutions
+Codility Lesson Python solutions and more questions for brain workout :full_moon_with_face: :muscle:
 
 ## List of Tasks
 1. [x] [Iterations](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%201)
