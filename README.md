@@ -19,4 +19,5 @@ Codility Lesson Python solutions and more questions for brain workout :full_moon
 15. [ ] [Caterpillar method](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%2015)
 16. [ ] Greedy algorithms
 17. [ ] Dynamic programming
-18. [ ] [More Questions :D](https://github.com/tanyinghui/Codility-Lesson/tree/master/Coding-Questions)
+18. [ ] [Hackattic](https://github.com/tanyinghui/Codility-Lesson/tree/master/Hackattic)
+19. [x] [More Questions :D](https://github.com/tanyinghui/Codility-Lesson/tree/master/Coding-Questions)
