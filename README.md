@@ -19,4 +19,4 @@ Codility Lesson Python solutions
 15. [ ] [Caterpillar method](https://github.com/tanyinghui/Codility-Lesson/tree/master/Lesson%2015)
 16. [ ] Greedy algorithms
 17. [ ] Dynamic programming
-18. [ ] And moreeee
+18. [ ] [And moreeee](https://github.com/tanyinghui/Codility-Lesson/tree/master/Coding-Questions)
