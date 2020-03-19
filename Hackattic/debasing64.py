@@ -1,10 +1,3 @@
-'''
-Read in a Base64-encoded string, decode it and print it out.
-Example:
-Input = bGF0ZS1hdC1uaWdodA==
-Output = late-at-night
-'''
-
 import base64
 import sys
 
